@@ -1,5 +1,5 @@
 # Hand-Gesture-Recognition
-Classification of hand gesture recognition using SQUEEZE NET from Torch vision framework. This model was deployed in Jetson Nano
+Classification of hand gesture recognition which is used by scuba divers using SQUEEZE NET from Torch vision framework. This model was deployed in Jetson Nano
 
 
 
