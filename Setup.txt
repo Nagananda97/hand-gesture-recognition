@@ -1,0 +1,6 @@
+Steps:
+Step1- Setup the Jetson Nano
+https://www.youtube.com/watch?v=uvU8AXY1170&t=2s&ab_channel=NVIDIADeveloper
+Step2-Install the Docker
+https://www.youtube.com/watch?v=rSqIvLQ8Meg&ab_channel=NVIDIADeveloper
+Upload the classification_interactive1.ipynb to docker and capture the training data and train the model.
