@@ -1,2 +1,2 @@
 # hand-gesture-recognition
-Classification of hand gesture recognition using SQUEEZENET from Torchvision framework
+Classification of hand gesture recognition using SQUEEZE NET from Torch vision framework
