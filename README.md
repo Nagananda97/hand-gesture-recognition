@@ -8,5 +8,5 @@ https://user-images.githubusercontent.com/99098171/161410448-b747d48e-9e9f-4018-
 
 
 Follow the setup document to install and deploy this in Jetson Nano
-</n>Referance 
+<br />Referance 
 https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs
